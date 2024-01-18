@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pythonchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-01-18T12:37:58.437484+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 16e58b620d00ea67a27d11141617ac7c1c4ef462c953e446076506fae65b0fab
+    name: pythonchart
+    type: application
+    urls:
+    - https://kagodarog.github.io/pythonhelmchart/pythonchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-01-18T12:37:58.436296+03:00"
