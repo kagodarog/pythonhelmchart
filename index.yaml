@@ -3,7 +3,17 @@ entries:
   pythonchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-18T12:37:58.437484+03:00"
+    created: "2024-01-21T00:50:31.798223+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 1bb12426bef2782c046ad035a4a0e4a2718602a34d983b22f17691b633d19ee1
+    name: pythonchart
+    type: application
+    urls:
+    - https://kagodarog.github.io/pythonhelmchart/pythonchart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-01-21T00:50:31.797758+03:00"
     description: A Helm chart for Kubernetes
     digest: 16e58b620d00ea67a27d11141617ac7c1c4ef462c953e446076506fae65b0fab
     name: pythonchart
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://kagodarog.github.io/pythonhelmchart/pythonchart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-18T12:37:58.436296+03:00"
+generated: "2024-01-21T00:50:31.796286+03:00"
